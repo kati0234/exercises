@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram id="n1XH_4lNE0ZCQADI9YPt" name="Page-1">
+        <mxGraphModel dx="1446" dy="1240" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;endArrow=block;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="12" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="shape=waypoint;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=4;" vertex="1" parent="1">
+                    <mxGeometry x="404" y="169" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;endArrow=block;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="13" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="game 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="289" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;endArrow=block;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="15" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;endArrow=block;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="15" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;endArrow=block;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="15" target="21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="saks&amp;nbsp;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="459" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="papir" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="594" y="459" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="sten" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="114" y="459" width="120" height="82" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;endArrow=block;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="21" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;endArrow=block;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="21" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="shake hand&lt;br&gt;.shake&lt;br&gt;på clas player eller #player" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="669" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="vis valg&amp;nbsp;&lt;br&gt;vis stilling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="790" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="genstart spil" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="358" y="945" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;#lose&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;#win&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;#draw&lt;/span&gt;&lt;/div&gt;fejern klassen .hidden" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="483" y="792" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value=".rock&lt;br&gt;.scissors&lt;br&gt;.paper" style="whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="612" y="792" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="#player1&lt;br&gt;#player2&lt;br&gt;.palyer&lt;br&gt;.shake" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;rounded=1;strokeWidth=2;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="612" y="669" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="remove&lt;br&gt;.shake" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="737" y="671" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="remove&lt;br&gt;.rock&lt;br&gt;.sicissors&lt;br&gt;.paper&lt;br&gt;.hiden dispaly none" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="542" y="881" width="145" height="93" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;endArrow=block;endFill=1;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="36" target="37">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="genstart spil&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+                    <mxGeometry x="634" y="257" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="914" y="257" width="165" height="193" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
