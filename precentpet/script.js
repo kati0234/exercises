@@ -1,6 +1,6 @@
-const name = "katinka";
+const firstname = "katinka";
 const lastName = "sturup";
 
-function myName() {
+function greeting() {
   console.log;
 }
