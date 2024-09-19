@@ -24,6 +24,7 @@ function PlayAgain() {
   rock.addEventListener("click", rockClicked);
   paper.addEventListener("click", paperClicked);
   scissors.addEventListener("click", scissorsClicked);
+  // fjern lytter eft klik skal implemteres
 
   //   fjeren klasser på hænder
   playerHand.classList.remove("shake", "paper", "scissors");
@@ -117,49 +118,4 @@ function determinwinner() {
   againButton.classList.remove("hidden");
   againButton.addEventListener("click", PlayAgain);
   console.log("result", result);
-  //   if (userGuess === computerGuess) {
-  //     result = "draw";
-  //     draw.classList.remove("hidden");
-  //   }
-  //   if (
-  //     (userGuess === "rock" && computerGuess === "scissors") ||
-  //     (userGuess === "paper" && computerGuess === "rock") ||
-  //     (userGuess === "scissors" && computerGuess === "paper")
-  //   ) {
-  //     result = "win";
-  //     win.classList.remove("hidden");
-  //   }
-  //     result = "lose";
-  //     lose.classList.remove("hidden");
-  //   }
-
-  //   if (userGuess === "rock" && computerGuess === "rock") {
-  //     result = "draw";
-  //   }
-  //   if (userGuess === "rock" && computerGuess === "paper") {
-  //     result = "computer";
-  //   }
-  //   if (userGuess === "rock" && computerGuess === "scissors") {
-  //     result = "user";
-  //   }
-
-  //   if (userGuess === "paper" && computerGuess === "rock") {
-  //     result = "user";
-  //   }
-  //   if (userGuess === "paper" && computerGuess === "paper") {
-  //     result = "draw";
-  //   }
-  //   if (userGuess === "paper" && computerGuess === "scissors") {
-  //     result = "computer";
-  //   }
-
-  //   if (userGuess === "scissors" && computerGuess === "rock") {
-  //     result = "computer";
-  //   }
-  //   if (userGuess === "scissors" && computerGuess === "paper") {
-  //     result = "user";
-  //   }
-  //   if (userGuess === "scissors" && computerGuess === "scissors") {
-  //     result = "draw";
-  //   }
 }
