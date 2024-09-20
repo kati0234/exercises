@@ -7,8 +7,9 @@
 // }
 // momsregner(price, moms);
 
-function momscalc(price, moms = 0.25) {
-  let value = price + price * moms;
+function momscalc(price, moms = 25) {
+  let value = price * (moms / 100 + 1);
   console.log(value);
 }
-momscalc(100);
+momscalc(1000);
+momscalc(100, 70);
