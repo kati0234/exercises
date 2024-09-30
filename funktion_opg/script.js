@@ -1,7 +1,15 @@
-"use strict";
-const firstname = "frode";
+// "use strict";
+// const firstname = "frode";
 
-function sayHallo(firstname) {
-  console.log(`Hello${firstname}`);
+// function sayHallo(firstname) {
+//   console.log(`Hello${firstname}`);
+// }
+// sayHallo("katinka");
+
+function greeting(firstname) {
+  return `hello ${firstname}`;
 }
-sayHallo("klaus");
+
+const result = greeting("anny name");
+const text = `Greeting ${greeting("anny name")}`;
+console.log(text);

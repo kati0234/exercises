@@ -1,3 +1,5 @@
+import { $, $$ } from "../utils/dom.js";
+
 const random = Math.floor(Math.random() * 101);
 const btn = document.querySelector("button");
 const text = document.querySelector(".text");
